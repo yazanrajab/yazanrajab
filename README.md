@@ -9,7 +9,7 @@
 - 🌱 Right now I'm diving into **Python, data science, and ML fundamentals**
 - 💡 I love turning ideas into real projects and learning by building
 - 🎯 My goal: to become a skilled **Machine Learning Engineer**
-- 📫 Reach me at: **[yazanbmr2006@gmail.com]**
+- 📫 Reach me at: **yazanbmr2006@gmail.com**
 
 ---
 
@@ -29,9 +29,7 @@
 
 ### 🚀 Projects I'm Working On
 
-- 🔹 **saql AI — refines and structures AI prompts professionally, with full support for Arabic and English** — short one-line description of what it does
-
-> Tip: replace these once you push a couple of public repos.
+- 🔹 **saql AI — refines and structures AI prompts professionally, with full support for Arabic and English** 
 
 ---
 
